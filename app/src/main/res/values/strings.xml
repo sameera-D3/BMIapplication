@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BMIapplication</string>
+    <string name="edte1">Enter Your Weight </string>
+    <string name="edte2">Enter Your Height </string>
+    <string name="edte3">Enter Your Height </string>
+    <string name="btn1"> Calculate</string>
+    <string name="txt"> Result </string>
+    <string name="name">Name</string>
+    <string name="instagram_icon">Instagram Icon</string>
+    <string name="warning_detail">Please fill all fields</string>
+    <string name="email_input_field">Email input field</string>
+
+</resources>

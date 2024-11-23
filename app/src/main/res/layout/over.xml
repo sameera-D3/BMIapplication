@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+    android:background="@drawable/bgsingup"
+android:padding="16dp">
+
+<!-- TextView -->
+
+    <!-- ImageView -->
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="353dp"
+        android:layout_height="155dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="360dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="16dp"
+        android:fontFamily="serif"
+        android:text=" Too much love for pizza \n detected, Time to break   \n         up with the fries "
+        android:textColor="#9E8F08"
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="342dp"
+        android:layout_height="146dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="320dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="16dp"
+        android:fontFamily="serif"
+        android:text="                 Caution:"
+        android:textColor="#E4675F"
+        android:textSize="28sp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_below="@id/textView"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="-364dp"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/blink" />
+
+</RelativeLayout>
+

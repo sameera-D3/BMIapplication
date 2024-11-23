@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#6A6C71</color>
+    <color name="yellow">#BCAD22</color>
+    <color name="lblack">#2c3e50</color>
+    <color name="light_green">#81C784</color>
+    <color name="dark_green">#2C952F</color>
+        <color name="colorPrimary">#6200EE</color> <!-- Primary button color -->
+        <color name="colorAccent">#03DAC5</color> <!-- Accent color for links or other elements -->
+        <color name="colorWhite">#FFFFFF</color> <!-- White color for text -->
+
+
+</resources>
